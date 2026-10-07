@@ -1,0 +1,10 @@
+# Generated data
+data/output/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.*
